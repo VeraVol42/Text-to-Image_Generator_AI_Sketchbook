@@ -1,6 +1,6 @@
 # AI Sketchbook 
-AI Sketchbook – Text-to-Image Generator
-AI Sketchbook is a web-based image generator that uses Stable Diffusion to create stunning visuals from text prompts. This project leverages Gradio for an intuitive interface, allowing users to easily generate, view, and download AI-generated images.
+
+This project demonstrates how to use Stable Diffusion (version 1.5) with Hugging Face Diffusers to generate images from text prompts. The model is integrated with Gradio, a simple and interactive web-based UI framework, allowing users to experiment with AI-generated images directly in their browser.
 
 🚀 **Key Features:**
 - **Text-to-Image** – Enter a prompt and generate AI-created images in seconds.
