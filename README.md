@@ -10,10 +10,10 @@ This project demonstrates how to use Stable Diffusion (version 1.5) with Hugging
 
 ### 🛠️ Technologies & Libraries  
 - **Python**  
-- **Deep Learning & Diffusion**: torch, torchvision, torchaudio, diffusers, transformers, accelerate  
-- **Interface & Deployment**: gradio  
-- **Utils**: datetime  
-- **Hugging Face Hub Integration**: huggingface_hub
+- **Deep Learning & Diffusion**: `torch`, `torchvision`, `torchaudio`, `diffusers`, `transformers`, `accelerate`  
+- **Interface & Deployment**: `gradio`  
+- **Utils**: `datetime`  
+- **Hugging Face Hub Integration**: `huggingface_hub`
 
 ![image](images/generated_image_20241228-193714.png)
 
